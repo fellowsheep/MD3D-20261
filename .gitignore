@@ -1,0 +1,2 @@
+# Colocar aqui arquivos e/ou extensões que não queremos que suba quando dermos commit/push
+*.blend1
