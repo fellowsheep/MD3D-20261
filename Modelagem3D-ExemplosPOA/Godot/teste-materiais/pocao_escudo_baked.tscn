@@ -1,0 +1,23 @@
+[gd_scene format=3 uid="uid://dks7fh0qgjewo"]
+
+[ext_resource type="PackedScene" uid="uid://bujsccgpca58y" path="res://assets/PocaoEscudoBaked.glb" id="1_ggix5"]
+[ext_resource type="Texture2D" uid="uid://dl031va6n07nw" path="res://assets/Baking-color.png" id="2_f1ob0"]
+[ext_resource type="Texture2D" uid="uid://dtf06nqn5wygd" path="res://assets/Baking-metallic.png" id="3_hquhy"]
+[ext_resource type="Texture2D" uid="uid://dvm0p5ubff8hi" path="res://assets/Baking-AO.png" id="3_vyvyd"]
+[ext_resource type="Texture2D" uid="uid://fhtljcy1aj0b" path="res://assets/Baking-normal.png" id="4_vyvyd"]
+[ext_resource type="Texture2D" uid="uid://c4a5ahxlit3js" path="res://assets/Baking-roughness.png" id="5_vep6i"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_tucjr"]
+albedo_texture = ExtResource("2_f1ob0")
+metallic = 1.0
+metallic_texture = ExtResource("3_hquhy")
+roughness_texture = ExtResource("5_vep6i")
+normal_enabled = true
+normal_texture = ExtResource("4_vyvyd")
+ao_enabled = true
+ao_texture = ExtResource("3_vyvyd")
+
+[node name="PocaoEscudoBaked" unique_id=771574209 instance=ExtResource("1_ggix5")]
+
+[node name="Metal" parent="." index="0" unique_id=72287310]
+material_override = SubResource("StandardMaterial3D_tucjr")
