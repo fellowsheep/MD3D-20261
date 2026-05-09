@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://cujeecgiaiak4"]
+
+[ext_resource type="PackedScene" uid="uid://dks7fh0qgjewo" path="res://pocao_escudo_baked.tscn" id="1_glv2v"]
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_uu6xs"]
+
+[node name="Node3D" type="Node3D" unique_id=493466207]
+
+[node name="PocaoEscudoBaked" parent="." unique_id=771574209 instance=ExtResource("1_glv2v")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.17435032, 0.96710783, -0.44556952)
+
+[node name="PocaoEscudoBaked2" parent="." unique_id=1217800051 instance=ExtResource("1_glv2v")]
+transform = Transform3D(-0.62964576, 0, 0.77688235, 0, 1, 0, -0.77688235, 0, -0.62964576, 1.4045556, 1.137137, -0.78093934)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=472241675]
+transform = Transform3D(7.248111, 0, 0, 0, 1, 0, 0, 0, 3.6160367, 0, 0, 0)
+mesh = SubResource("PlaneMesh_uu6xs")
