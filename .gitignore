@@ -1,3 +1,17 @@
 # Colocar aqui arquivos e/ou extensões que não queremos que suba quando dermos commit/push
 *.blend1
 Modelagem3D-ExemplosPOA/textures/Baking-Metal.png
+Modelagem3D-ExemplosPOA/PocaoEscudoBaked.blend
+Modelagem3D-ExemplosPOA/PocaoEscudoBaked.blend
+Modelagem3D-ExemplosPOA/PocaoEscudoBakedCasa.glb
+Modelagem3D-ExemplosPOA/PocaoEscudoBakedCasa2.glb
+Modelagem3D-ExemplosPOA/textures/Baking-AO.png
+Modelagem3D-ExemplosPOA/textures/Baking-Color.png
+Modelagem3D-ExemplosPOA/textures/Baking-Normal.png
+Modelagem3D-ExemplosPOA/textures/Baking-Roughness.png
+Modelagem3D-ExemplosPOA/textures/metal_01_metallic_2k.png
+Modelagem3D-ExemplosSL/Barril2.blend
+Modelagem3D-ExemplosSL/Barril2.fbx
+Modelagem3D-ExemplosSL/Barril2.zip
+Modelagem3D-ExemplosSL/Barril2glb.glb
+Modelagem3D-ExemplosPOA/PocaoEscudoBaked.blend
