@@ -1,6 +1,6 @@
 # T4: Referências de Modelagem de Personagem
 
-Este documento reúne o material de apoio e as referências técnicas recomendadas para o desenvolvimento do Trabalho Prático 3 (Modelagem de Personagem).
+Este documento reúne o material de apoio e as referências técnicas recomendadas para o desenvolvimento do Trabalho Prático 4 (T4).
 
 ---
 
