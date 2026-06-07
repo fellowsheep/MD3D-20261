@@ -83,7 +83,16 @@ Esta playlist pode ajudar a dar alguns *insights* de como modelar alguns tipos d
 
 
 ---
+## ⏯️  Modelagem Low Poly
 
-## ⏯️  Preparação para Rigging (Tópico Futuro - T4)
+[![Creating Stylized Low Poly Characters in Blender/lacruzo](https://img.youtube.com/vi/-XYryP_GU8o/0.jpg)](https://youtu.be/-XYryP_GU8o?si=AbXBv5lX3ie4HMNr)
+
+<!--
+https://youtu.be/-XYryP_GU8o?si=O_SER_a6QaD5Tlpk
+https://youtu.be/-XYryP_GU8o?si=8hvWuw5-u1CrHMYv
+https://youtu.be/-XYryP_GU8o?si=AbXBv5lX3ie4HMNr
+-->
+
+## ⏯️  Preparação para Rigging (Tópico Futuro)
 
 Em breve!!!
