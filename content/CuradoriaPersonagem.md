@@ -87,7 +87,20 @@ Esta playlist pode ajudar a dar alguns *insights* de como modelar alguns tipos d
 
 [![Creating Stylized Low Poly Characters in Blender/lacruzo](https://img.youtube.com/vi/-XYryP_GU8o/0.jpg)](https://youtu.be/-XYryP_GU8o?si=AbXBv5lX3ie4HMNr)
 
+Tutorial completinho para personagem low poly com textura pintada à mão.
+
+[![Tutorial: Rigging for lowpoly characters/molegato](https://img.youtube.com/vi/cClmC4CyZRs/0.jpg)](https://youtu.be/cClmC4CyZRs?si=wvoyWbLjkzdPNzqc)
+
+Rigging de personagens low poly (sugestão do colega Nícolas Bellver)
+
+## ⏯️  Diversos
+
+[![Blender 5.1 Texture Painting: A Detailed Guide for Beginners/Grant Abbitt](https://img.youtube.com/vi/7kSRXnAi7uA/0.jpg)](https://youtu.be/7kSRXnAi7uA?si=cejOiwiYn4shsW2F)
+
 <!--
+Pintura de texturas (handpainted) para iniciantes  https://youtu.be/7kSRXnAi7uA?si=cejOiwiYn4shsW2F
+Rigging de personagens low poly (sugestão do colega Nícolas Bellver) https://youtu.be/cClmC4CyZRs?si=wvoyWbLjkzdPNzqc
+
 https://youtu.be/-XYryP_GU8o?si=O_SER_a6QaD5Tlpk
 https://youtu.be/-XYryP_GU8o?si=8hvWuw5-u1CrHMYv
 https://youtu.be/-XYryP_GU8o?si=AbXBv5lX3ie4HMNr
